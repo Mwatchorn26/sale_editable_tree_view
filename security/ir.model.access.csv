@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_sale_editable_tree_view_sale_editable_tree_view,access_sale_editable_tree_view_sale_editable_tree_view,model_sale_editable_tree_view_sale_editable_tree_view,,1,0,0,0

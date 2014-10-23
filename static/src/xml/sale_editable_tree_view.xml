@@ -1,0 +1,7 @@
+<template>
+<t t-name="sale_editable_tree_view.MyWidget">
+    <div class="oe_sale_editable_tree_view">
+        Hello World!
+    </div>
+</t>
+</template>

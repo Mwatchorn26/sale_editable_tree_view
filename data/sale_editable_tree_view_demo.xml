@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+        <record id="sale_editable_tree_view.sale_editable_tree_view_demo" model="sale_editable_tree_view">
+            <field name="name">My first record for model 'sale_editable_tree_view.sale_editable_tree_view'</field>
+        </record>
+
+    </data>
+</openerp>
